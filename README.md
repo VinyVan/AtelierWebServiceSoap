@@ -14,9 +14,9 @@
 ![Main running](captures/Capture6.PNG)
 
 ### 3 - Consultation du web service
-![wsdl dans le browser](captures/Capture7.PNG)>
+![wsdl dans le browser](captures/Capture7.PNG)
 
-<h3>4 - Test du web service</h3>
+### 4 - Test du web service
 ![Conversion](captures/Capture8.PNG)
 ![getCompte](captures/Capture9.PNG)
 ![ListComptes](captures/Capture10.PNG)
